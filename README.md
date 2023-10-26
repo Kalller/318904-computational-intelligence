@@ -1,1 +1,1 @@
-# 318904-computational-intelligence
+# computational-intelligence
