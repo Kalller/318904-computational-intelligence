@@ -1,4 +1,4 @@
-# Computational_intelligence
+# Computational Intelligence
 @Politecnico di Torino
 2022-23
 
