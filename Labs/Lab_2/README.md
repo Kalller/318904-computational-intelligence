@@ -24,7 +24,7 @@ The `ESAgent` class represents an agent that employs an evolutionary strategy to
 
 - **Initialization**: Generates all possible rules and initializes weights and sigmas randomly.
   
-- **Rule Selection**: Picks a rule based on the condition being true for the current game state using stochastic universal sampling.
+- **Rule Selection**: Picks a rule based on the condition being true for the current game state using **stochastic universal sampling**.
   
 - **Gameplay**: Executes the chosen rule's action on the game state.
   
