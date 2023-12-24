@@ -28,7 +28,7 @@ To use this notebook:
 
 ## Credits
 
-- `Marcello Vitaggio`: I refined prof Squillero's code in order to make it able to learn as the second player.  
+- `Marcello Vitaggio`: I refined professor Squillero's code in order to make it able to learn as the second player.  
 GitHub: [Link](https://github.com/Kalller/computational-intelligence), Email: s318904@studenti.polito.it
 - `Giovanni Squillero`: Author of the original code.  
 GitHub: [Link](https://github.com/squillero/computational-intelligence), Email: giovanni.squillero@polito.it
