@@ -2,7 +2,7 @@
 
 This Jupyter Notebook contains Python code that implements a Tic-Tac-Toe game using Monte Carlo reinforcement learning techniques.
 
-## Overview
+## Overview 
 
 The code in this notebook implements a Tic-Tac-Toe player using reinforcement learning, specifically Monte Carlo methods. It consists of the following components:
 
